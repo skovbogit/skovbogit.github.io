@@ -8,10 +8,12 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - statistics.qmd
+        text: Statistics
 
 format:
   html:
-    theme: cosmo
+    theme: superhero
     css: styles.css
     toc: true
 

@@ -1,0 +1,7 @@
+---
+title: "Introduction to statistics"
+---
+
+$$
+y = \beta_0 + \sum_{j=1}^p \beta_j x_j
+$$
