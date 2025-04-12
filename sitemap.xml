@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://skovbogit.github.io/about.html</loc>
-    <lastmod>2025-04-12T19:00:45.107Z</lastmod>
+    <loc>https://skovbogit.github.io/statistics.html</loc>
+    <lastmod>2025-04-12T19:25:56.036Z</lastmod>
   </url>
   <url>
     <loc>https://skovbogit.github.io/index.html</loc>
-    <lastmod>2025-04-12T19:00:45.107Z</lastmod>
+    <lastmod>2025-04-12T19:25:56.035Z</lastmod>
+  </url>
+  <url>
+    <loc>https://skovbogit.github.io/about.html</loc>
+    <lastmod>2025-04-12T19:25:56.035Z</lastmod>
   </url>
 </urlset>
